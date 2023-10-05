@@ -119,6 +119,7 @@ The `text-decoration` property is specified as one or more space-separated value
 {{Specifications}}
 
 ## Browser compatibility
+[131.xlsx](https://github.com/mdn/content/files/12819322/131.xlsx)
 
 {{Compat}}
 
